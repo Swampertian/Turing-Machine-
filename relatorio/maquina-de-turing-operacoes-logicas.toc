@@ -1,0 +1,22 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {section}{\numberline {0.1}Objetivo}{7}{section.0.1}%
+\contentsline {chapter}{\numberline {1}Desenvolvimento}{8}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Diagrama de estados}{8}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Funcionamento}{8}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Fase 1 --- Seleção da operação ($q_0$)}{8}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Fase 2 --- Cópia do primeiro operando ($q_1$, $q_2$, $q_3$)}{8}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Fase 3 --- Retorno da fita 2 ($q_4$, $q_7$, $q_9$)}{9}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Fase 4 --- Cálculo bit a bit ($q_5$, $q_8$, $q_{10}$)}{9}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Exemplos de execução}{9}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Rastreamento de \texttt {A110\#101}}{9}{subsection.1.3.1}%
+\contentsline {section}{\numberline {1.4}Limitações}{10}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Código-fonte}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Módulo \texttt {fita.py}: representação das fitas}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Importações e constantes}{12}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Função de transição $\delta $}{12}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Descrição das fases}{13}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Classe \texttt {MaquinaTuring}}{14}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Exibição da execução}{15}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Ponto de entrada}{16}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Exemplo de saída}{16}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Conclusão}{17}{chapter.3}%
